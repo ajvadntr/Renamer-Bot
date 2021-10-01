@@ -1,23 +1,25 @@
 class script(object):
 
 
-    START_TEXT = """** Hai {}** , 
+    START_TEXT = """** 👋Hi {}, 
 
-I am a Simple File Renamer Bot with  Permanent Thumbnail support
+I'm A Simple File Renamer Bot With Permanent Thumbnail support!
 
-Send me any Telegram file and choose appropriate option!
+Send me any Telegram file and select rename option.
+
+Click <i>/help</i> for More Details....
 
 """
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
 
-    UPGRADE_TEXT = "CONTACT @Ts_Bots"
+    UPGRADE_TEXT = "CONTACT @Ajvadntr"
 
     DOWNLOAD_START = "Download Started... "
 
     UPLOAD_START = "Uploading Started... "
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Ts_Bots**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @AIOM_Rename_Bot**"
 
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
 
@@ -27,7 +29,7 @@ Send me any Telegram file and choose appropriate option!
 
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
 
-    CUSTOM_CAPTION_UL_FILE = "@Ts_Bots"
+    CUSTOM_CAPTION_UL_FILE = "@AIOM_Rename_Bot"
 
     HELP_USER = """
 
@@ -42,7 +44,7 @@ Send me any Telegram file and choose appropriate option!
 4. Send the new file when bot asks 
 
 
-<b>By @Ts_Bots</b>
+
 """
 
     ABOUT_TEXT = """
