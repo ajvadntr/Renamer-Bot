@@ -1,13 +1,13 @@
 class script(object):
 
 
-    START_TEXT = """** 👋Hi {}, 
+    START_TEXT = """** <b>👋Hi {}, 
 
 I'm A Simple File Renamer Bot With Permanent Thumbnail support!
 
 Send me any Telegram file and select rename option.
 
-Click <i>/help</i> for More Details....
+Click /help for More Details....<b>
 
 """
 
