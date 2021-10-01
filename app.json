@@ -8,9 +8,9 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://github.com/Hillard-har/RENAMER-BOT",
-  "website": "https://github.com/Ts-Bots",
-  "repository": "https://github.com/Hillard-har/RENAMER-BOT",
+  "success_url": "https://github.com/ajvadntr/Renamer-Bot",
+  "website": "https://github.com/ajvadntr",
+  "repository": "https://github.com/ajvadntr/Renamer-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
